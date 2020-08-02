@@ -1,0 +1,1 @@
+Basically a playground to become more familiarised with git. 
