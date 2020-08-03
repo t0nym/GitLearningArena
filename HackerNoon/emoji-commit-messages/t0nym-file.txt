@@ -2,3 +2,5 @@ This is a NEW file
 Like eff it ain't!
 
 This is a change
+
+... and this is another change
