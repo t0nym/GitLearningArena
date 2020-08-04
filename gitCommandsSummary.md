@@ -104,76 +104,22 @@ git clone https://JamTone@bitbucket.org/JamTone/t0nymbitbucket.git
 git clone https://jleetutorial/maven-project
 git clone ../TestEnv_Repo/git/pub/TestEnv.git
 
-git commit
-git commit -a
-git commit -a -m "A change"
-git commit -am "Added new script exercise"
-git commit -am "Added new script exercise-another version"
-git commit -am "Added Reading Material "
-git commit -am "added VSCode workspace
-git commit -am "Adding more ansible commands to list"
-git commit -a manifests/operating_sys.pp 
-git commit -am "ansible-examples addition"
-git commit -a -m "Changes stars to t0nym pluses"
-git commit -am "Cheatsheet upgrade... "
-git commit -am "Creating a Python Playground"
-git commit -am "Creation of new play area
-git commit -am "Doing the initial do"
+
 git commit --amend -m "More changes - now correct" 
 git commit --amend --reset-author
-git commit -a -m "File nonsense.txt is now removed"
-git commit -am "New directory template"
-git commit -am "Post Studying... "
-git commit -am "Rename Vault file to .md"
-git commit -am "Segregate vault specifix"
-git commit -a -m "Some changes"
-git commit -a -m "Some MORE changes"
-git commit -am "Starting new whileLoop.py task"
-git commit -a -m "This is a test for the new remote origin"
-git commit -a -m "Updated README.md"
-git commit -am "Updated with t0nym permissions"
-git commit -am "Updating inventory file"
+
 git commit -am "working with this exercise"
 git commit -a -m "Yet annuva change"
 git commit --help 
-git commit -m "2nd Commit"
-git commit -m "... added .gitignore file with content"
-git commit -m "added new dirs/files"
-git commit -m "added README.md"
-git commit -m "added to login branch"
-git commit -m "Adding more nonsense... t0nym"
-git commit -m "Adding new file..."
-git commit -m "Adding virginal directory structure"
-git commit -m "Add myFile.txt"
-git commit -m "Add nodes.pp file"
-git commit -m "Add t0nym-file.txt file"
-git commit manifests/operating_sys.pp 
-git commit -m 'another change - t0nym'
-git commit -m "Changed app.js file"
-git commit -m "Copying over t0nym's working dir"
-git commit -m "demo.txt file is modified with extra line"
-git commit -m "first commit"
-git commit -m "First commit"
-git commit -m "Initial Bitbucket Commital"
-git commit -m "Initial commit" 
-git commit -m "Initial Commit stage"
-git commit -m "Initial File Commit"
-git commit -m "message with a tpyo here" 
-git commit -m "More upgrades to cheatsheets"
-git commit -m "moved Markdown Cheat Sheet.pdf"
-git commit -m "New directory template"
-git commit -m "Removes nonsense2.txt file" 
-git commit -m "Second Phase change"
-git commit -m "testing Branch Commit"
-git commit -m "Third change on the README.md file"
-git commit -m "this does NOT remove the file"
-git commit -m "This is my first commit again"
-git commit stationlocations -m 'making a change in a branch'
+
 git commit stationLocations -m 'making a change in a branch'
 git commit -v
 
-git config
-git config 
+git commit -am "Just messin' - PtII"
+git commit -v
+
+
+
 git config -e
 git config global
 git config --global
@@ -368,15 +314,15 @@ sudo curl https://github.com/docker/compose/releases/download/$dockerComposeVers
 sudo curl -L "https://github.com/docker/compose/releases/download/1.23.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo curl -L https://github.com/docker/compose/releases/download/1.24.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
 sudo curl -L https://github.com/docker/compose/releases/download/$dockerComposeVersion/docker-compose-`uname
-sudo curl -L https://github.com/docker/compose/releases/download/$dockerComposeVersion/docker-compose-`uname -s`-`uname -m`
+
 sudo curl -L https://github.com/docker/compose/releases/download/$dockerComposeVersion/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
 sudo curl -o /usr/local/bin/docker-compose -L "https://github.com/docker/compose/releases/download/1.14.0/docker-compose-$(uname -s)-$(uname -m)"
-sudo curl -o /usr/local/bin/docker-compose -L "https://github.com/docker/compose/releases/download/1.15.0/docker-compose-$(uname -s)-$(uname -m)"
+
 
 tldr git
 
 wget -N -t 5 -T 10 https://github.com/UbuntuForums/wireless-info/raw/master/wireless-info && chmod +x wireless-info && ./wireless-info
-wget -O ~/merge_history.bash http://raw.github.com/pts/pts-merge-history-bash/master/merge
+
 wget -O ~/merge_history.bash http://raw.github.com/pts/pts-merge-history-bash/master/merge_
 wget -O ~/merge_history.bash http://raw.github.com/pts/pts-merge-history-bash/master/merge_history.bash
-whereis git
+
